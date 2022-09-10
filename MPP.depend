@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1591493702 source:c:\users\hp\desktop\c++\mpp\main.cpp
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Mediatheque.h"
+
+1591481669 source:c:\users\hp\desktop\c++\mpp\src\date.cpp
+	<iostream>
+	<ctime>
+	"Date.h"
+
+1591481669 c:\users\hp\desktop\c++\mpp\include\date.h
+	<iostream>
+
+1591467040 source:c:\users\hp\desktop\c++\mpp\src\genre.cpp
+	"Genre.h"
+
+1591467040 c:\users\hp\desktop\c++\mpp\include\genre.h
+	<string>
+
+1591478711 source:c:\users\hp\desktop\c++\mpp\src\audio.cpp
+	"Audio.h"
+	<iostream>
+
+1591478711 c:\users\hp\desktop\c++\mpp\include\audio.h
+	"Document.h"
+
+1591478586 c:\users\hp\desktop\c++\mpp\include\document.h
+	"Genre.h"
+	"Localisation.h"
+
+1591467176 c:\users\hp\desktop\c++\mpp\include\localisation.h
+	<string>
+
+1591470397 source:c:\users\hp\desktop\c++\mpp\src\document.cpp
+	"Document.h"
+
+1591470397 source:c:\users\hp\desktop\c++\mpp\src\localisation.cpp
+	"Localisation.h"
+
+1591478860 source:c:\users\hp\desktop\c++\mpp\src\livre.cpp
+	"Livre.h"
+	<iostream>
+
+1591478858 c:\users\hp\desktop\c++\mpp\include\livre.h
+	"Document.h"
+
+1591478890 source:c:\users\hp\desktop\c++\mpp\src\video.cpp
+	"Video.h"
+	<iostream>
+
+1591478890 c:\users\hp\desktop\c++\mpp\include\video.h
+	"Document.h"
+
+1591467829 source:c:\users\hp\desktop\c++\mpp\src\categorieclient.cpp
+	"CategorieClient.h"
+	<iostream>
+
+1591467829 c:\users\hp\desktop\c++\mpp\include\categorieclient.h
+	<string>
+
+1591490017 source:c:\users\hp\desktop\c++\mpp\src\client.cpp
+	"Client.h"
+	<iostream>
+
+1591489019 c:\users\hp\desktop\c++\mpp\include\client.h
+	"CategorieClient.h"
+	"FicheEmprunt.h"
+	<string>
+	<vector>
+	"Date.h"
+
+1591473138 c:\users\hp\desktop\c++\mpp\include\ficheemprunt.h
+	"Date.h"
+	"Client.h"
+	"Document.h"
+
+1591492844 source:c:\users\hp\desktop\c++\mpp\src\ficheemprunt.cpp
+	<typeinfo>
+	<iostream>
+	"FicheEmprunt.h"
+
+1591493452 source:c:\users\hp\desktop\c++\mpp\src\mediatheque.cpp
+	"Mediatheque.h"
+	<iostream>
+	<algorithm>
+	<string>
+
+1591492684 c:\users\hp\desktop\c++\mpp\include\mediatheque.h
+	"Document.h"
+	"Client.h"
+	"Audio.h"
+	"Video.h"
+	"Livre.h"
+	<string>
+	<vector>
+
+1591625997 source:c:\users\ajmai\desktop\mpp\main.cpp
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Mediatheque.h"
+
+1591608640 c:\users\ajmai\desktop\mpp\include\mediatheque.h
+	"Document.h"
+	"Client.h"
+	"Audio.h"
+	"Video.h"
+	"Livre.h"
+	<string>
+	<vector>
+
+1591598615 c:\users\ajmai\desktop\mpp\include\document.h
+	"Genre.h"
+	"Localisation.h"
+
+1591614295 c:\users\ajmai\desktop\mpp\include\genre.h
+	<string>
+
+1591585365 c:\users\ajmai\desktop\mpp\include\localisation.h
+	<string>
+
+1591624426 c:\users\ajmai\desktop\mpp\include\client.h
+	"CategorieClient.h"
+	"FicheEmprunt.h"
+	<string>
+	<vector>
+	"Date.h"
+
+1591467829 c:\users\ajmai\desktop\mpp\include\categorieclient.h
+	<string>
+
+1591624877 c:\users\ajmai\desktop\mpp\include\ficheemprunt.h
+	"Date.h"
+	"Client.h"
+	"Document.h"
+
+1591604465 c:\users\ajmai\desktop\mpp\include\date.h
+	<iostream>
+
+1591598719 c:\users\ajmai\desktop\mpp\include\audio.h
+	"Document.h"
+
+1591598724 c:\users\ajmai\desktop\mpp\include\video.h
+	"Document.h"
+
+1591598726 c:\users\ajmai\desktop\mpp\include\livre.h
+	"Document.h"
+
+1591619238 source:c:\users\ajmai\desktop\mpp\src\audio.cpp
+	"Audio.h"
+	<iostream>
+
+1591467829 source:c:\users\ajmai\desktop\mpp\src\categorieclient.cpp
+	"CategorieClient.h"
+	<iostream>
+
+1591627462 source:c:\users\ajmai\desktop\mpp\src\client.cpp
+	"Client.h"
+	<iostream>
+	<string>
+
+1591605085 source:c:\users\ajmai\desktop\mpp\src\date.cpp
+	<iostream>
+	<ctime>
+	"Date.h"
+	<string>
+	<sstream>
+
+1591597576 source:c:\users\ajmai\desktop\mpp\src\document.cpp
+	"Document.h"
+
+1591625997 source:c:\users\ajmai\desktop\mpp\src\ficheemprunt.cpp
+	<typeinfo>
+	<iostream>
+	"FicheEmprunt.h"
+
+1591614295 source:c:\users\ajmai\desktop\mpp\src\genre.cpp
+	"Genre.h"
+
+1591619250 source:c:\users\ajmai\desktop\mpp\src\livre.cpp
+	"Livre.h"
+	<iostream>
+
+1591588184 source:c:\users\ajmai\desktop\mpp\src\localisation.cpp
+	"Localisation.h"
+
+1591627835 source:c:\users\ajmai\desktop\mpp\src\mediatheque.cpp
+	"Mediatheque.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<typeinfo>
+
+1591619285 source:c:\users\ajmai\desktop\mpp\src\video.cpp
+	"Video.h"
+	<iostream>
+

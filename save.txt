@@ -1,0 +1,9 @@
+A 123 R8 S8 inconnu inconnu inconnu inconnu ray 1 1 1
+L 122 m9 n19 math adnen 1000 science 500 0 0 0
+P R8 S8
+P m9 n19
+G inconnu 1
+G science 0
+E normal 2 2 2 2 0
+E abonnee 3 3 3 3 0
+C sammari mohammed glaa normal 2 1 0 11/12/2013 11/13/2019 0
